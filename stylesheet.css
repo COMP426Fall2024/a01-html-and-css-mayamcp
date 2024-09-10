@@ -109,4 +109,6 @@ note p {
 body bulk {
     padding: 40 px; 
     width: 90%;
+    margin: 1;
+    display: block;
 }

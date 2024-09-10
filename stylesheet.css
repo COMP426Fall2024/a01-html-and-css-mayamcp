@@ -81,7 +81,7 @@ table {
     width: 90%;
     border: 1px solid #333;
     border-collapse: collapse;
-    margin-bottom: 1em;
+    margin-bottom: 3em;
     display: block;
 }
 
@@ -107,7 +107,6 @@ note p {
 }
 
 body bulk {
-    margin: 1;
-    padding-left: 40 px; 
+    padding: 40 px; 
     width: 90%;
 }

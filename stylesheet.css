@@ -42,6 +42,7 @@ main {
 }
 
 h1 {
+    font-family: "Arsenal SC", sans-serif;
     font-size: 2.5em;
     margin: 0;
 }
@@ -59,3 +60,8 @@ h3 {
 p {
     margin-bottom: 1em;
 }
+
+.god-name {
+    font-weight: bold;
+    color: #47637b;
+  }

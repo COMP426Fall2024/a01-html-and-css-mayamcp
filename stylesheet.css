@@ -97,5 +97,15 @@ img {
 note p {
     font-style: italic; 
     color: #476347;
-    font-size: 0.5em;
+    font-size: 1.0em;
+}
+
+#myth-label {
+    color: #47637b;
+    font-weight: bold;
+}
+
+body bulk {
+    margin: 1;
+    padding-left: 40 px; 
 }

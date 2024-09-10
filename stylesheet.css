@@ -58,14 +58,17 @@ h2 {
 h3 {
     font-family: "Arsenal SC", sans-serif;
     font-size: 1.2em;
+    font-weight: bold;
     color: #333;
 }
 
 p {
+    font-family: "Quicksand", sans-serif;
     margin-bottom: 1em;
 }
 
 .god-name {
+    font-family: "Quicksand", sans-serif;
     font-weight: bold;
     color: #47637b;
   }

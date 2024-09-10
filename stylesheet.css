@@ -82,6 +82,7 @@ table {
     border: 1px solid #333;
     border-collapse: collapse;
     margin-bottom: 1em;
+    display: block;
 }
 
 img {

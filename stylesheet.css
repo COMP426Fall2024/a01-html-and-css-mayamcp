@@ -1,5 +1,5 @@
 body {
-    font-family: Arial, sans-serif;
+    font-family: "Quicksand", sans-serif;
     line-height: 1.6;
     margin: 0;
     padding: 0;
@@ -42,17 +42,21 @@ main {
 }
 
 h1 {
-    font-family: "Arsenal SC", sans-serif;
+    font-family: "Jacques Francois Shadow", serif;
     font-size: 2.5em;
     margin: 0;
 }
 
 h2 {
+    font-family: "Quicksand", sans-serif;
     font-size: 1.5em;
+    font-weight: bold;
+    color: #333;
     margin-top: 5px;
 }
 
 h3 {
+    font-family: "Arsenal SC", sans-serif;
     font-size: 1.2em;
     color: #333;
 }
